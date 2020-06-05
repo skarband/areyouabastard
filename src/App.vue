@@ -86,6 +86,14 @@ h2 {
   background: #f3f3f3;
 }
 
+@media (hover: none) {
+   .button {
+      background: #f3f3f3;
+      border: 2px solid #000;
+      color: #000;
+   }
+}
+
 .button:hover {
   background: #000;
   color: #f3f3f3;

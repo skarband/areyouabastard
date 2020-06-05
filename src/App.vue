@@ -83,6 +83,7 @@ h2 {
   transition-duration: 0.2s;
   line-height: 30px;
   border: 2px solid #000;
+  background: #f3f3f3;
 }
 
 .button:hover {

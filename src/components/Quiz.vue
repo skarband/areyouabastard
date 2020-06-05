@@ -126,6 +126,7 @@ export default {
     restart: function() {
       this.end = false;
       this.questionIndex = 0;
+      this.bastard = false;
     },
   },
 };

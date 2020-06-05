@@ -17,7 +17,7 @@
 
 <script>
 import Quiz from "./components/Quiz.vue";
-document.title = "Are you a bastard?"
+document.title = "Are you a bastard?";
 
 export default {
   name: "App",
@@ -87,11 +87,10 @@ h2 {
 }
 
 @media (hover: none) {
-   .button {
+  .button:hover {
+      color: inherit;
       background: #f3f3f3;
-      border: 2px solid #000;
-      color: #000;
-   }
+  }
 }
 
 .button:hover {

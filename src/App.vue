@@ -83,24 +83,8 @@ h2 {
   transition-duration: 0.2s;
   line-height: 30px;
   border: 2px solid #000;
-  background: #f3f3f3;
-}
-
-@media (hover: none) {
-  .button:hover {
-      color: inherit;
-      background: #f3f3f3;
-  }
-}
-
-.button:hover {
   background: #000;
   color: #f3f3f3;
-  /* border: 4px solid #000; */
-}
-
-.button:focus {
-  outline: 0;
 }
 
 a {

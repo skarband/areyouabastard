@@ -37,7 +37,7 @@
         </button>
         <a
           style="float: right"
-          href="https://secure.actblue.com/donate/ms_blm_homepage_2019"
+          href="https://blacklivesmatters.carrd.co/#donate"
           target="_blank"
           class="button donate"
           >Donate</a
